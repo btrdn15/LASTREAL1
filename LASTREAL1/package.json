@@ -104,4 +104,11 @@
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
   }
+  {
+  "name": "rest-express",
+  "engines": {
+    "node": "20.x"
+  },
+  ...
+}
 }
